@@ -1,7 +1,7 @@
 # Ola
 
 
-Tenho 15 anos e atualmente estou cursando o curso de desenvolvimento de sistemas no Instituto Federal do Triangulo Mineiro.
+Tenho 16 anos e atualmente estou cursando o curso de desenvolvimento de sistemas no Instituto Federal do Triangulo Mineiro.
 
 X: https://x.com/pinguimcpps
 
